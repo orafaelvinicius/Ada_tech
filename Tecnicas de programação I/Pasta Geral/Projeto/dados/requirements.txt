@@ -1,0 +1,4 @@
+pandas==x.x.x
+numpy==x.x.x
+matplotlib==x.x.x
+seaborn==x.x.x
